@@ -1,13 +1,10 @@
 {
   "name": "karma-jasmine-seed-reporter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Karma plugin. Prints the seed that was used to run jasmine tests with karma.",
   "main": "index.js",
   "repository": "https://github.com/ketan/karma-jasmine-seed-reporter",
   "author": "Ketan Padegaonkar <KetanPadegaonkar@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
-    "karma": "^3.0.0",
-    "karma-jasmine": "^1.1.2"
-  }
+  "devDependencies": {}
 }
